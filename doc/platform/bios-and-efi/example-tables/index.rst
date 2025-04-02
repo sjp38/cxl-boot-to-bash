@@ -1,7 +1,7 @@
 .. platform documentation
 
-BIOS and EFI Configuration
-==========================
+Example CEDT and SRAT
+=====================
 
 todo
 
