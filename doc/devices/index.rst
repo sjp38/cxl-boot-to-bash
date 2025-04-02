@@ -1,11 +1,12 @@
 .. cxl-boot-to-bash documentation master file
 
+UEFI Data
+=========
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: Device Data Tables:
 
    cdat.rst
-   dynamic-capacity/index.rst
 
 Devices
 =======
@@ -24,6 +25,11 @@ Dynamic Capacity Devices
 ------------------------
 
 todo
+
+.. toctree::
+   :maxdepth: 1
+   :caption: DCD In Depth:
+   dynamic-capacity/index.rst
 
 Multi-Headed Devices
 --------------------
