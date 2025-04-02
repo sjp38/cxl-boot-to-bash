@@ -1,5 +1,12 @@
 .. cxl-boot-to-bash documentation master file
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+
+   cdat.rst
+   dynamic-capacity/index.rst
+
 Devices
 =======
 
@@ -23,9 +30,3 @@ Multi-Headed Devices
 
 todo
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Contents:
-
-   cdat.rst
-   dynamic-capacity/index.rst
