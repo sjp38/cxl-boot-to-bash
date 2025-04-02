@@ -10,5 +10,6 @@ todo
    :caption: Contents:
 
    memory-policy.rst
-   memtier.rst
-   reclaim.rst
+   memzone.rst
+   hugepages.rst
+   cpuset.rst

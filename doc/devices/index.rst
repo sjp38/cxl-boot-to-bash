@@ -1,9 +1,12 @@
-.. cxl-boot-to-bash documentation master file
+.. devices
+
+Devices
+=======
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :caption: Contents:
-   overview.rst
-   cdat.rst
-   dynamic-capacity/index.rst
 
+   overview/index.rst
+   uefi/index.rst
+   dynamic-capacity/index.rst
