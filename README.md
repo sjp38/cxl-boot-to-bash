@@ -1,3 +1,3 @@
 # CXL boot to bash
 
-CXL: Boot to bash
+CXL on Linux: Boot to Bash

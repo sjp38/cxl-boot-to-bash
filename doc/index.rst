@@ -26,9 +26,10 @@ Thanks
 todo
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Contents:
 
+   boot-to-bash.rst
    devices/index.rst
    platform/index.rst
    linux/index.rst
